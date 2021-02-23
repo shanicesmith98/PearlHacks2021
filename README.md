@@ -1,2 +1,2 @@
 # PearlHacks2021
-web app to help identify gluten-containing products for the celiac community
+This web application is designed to help identify gluten-containing products for the Celiac community. Users can access resources for Celiac's Disease from the Resources tab, find resturaunts that are labeled gluten-free/celiac-friendly through the Resturaunt Lookup tab, and look for gluten-free products/ingredients through the Gluten-Free Finder tab. This app was designed to empower individuals with Celiac's Disease by giving them easily-accessible tools so that they can eat at resturaunts and navigate grocery stores without major worries about consuming gluten. 
